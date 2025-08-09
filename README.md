@@ -1,4 +1,4 @@
-# 🤖 Intelligent Autonomous Robot with AI Vision
+#  Intelligent Autonomous Robot with AI Vision
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![YOLOv5](https://img.shields.io/badge/YOLOv5-Ultralytics-green.svg)](https://github.com/ultralytics/yolov5)
@@ -11,7 +11,7 @@
 ![Robot Vision Demo](demo_screenshot.png)
 *Real-time AI object detection in action - Robot identifies obstacles and makes navigation decisions*
 
-## 🎯 Project Highlights
+##  Project Highlights
 
 **🏆 Why This Project Stands Out:**
 - **Cutting-Edge AI**: Real-time YOLOv5 object detection with 90%+ accuracy
@@ -20,7 +20,7 @@
 - **Academic Excellence**: Masters-level complexity with practical applications
 - **Industry Standards**: Follows robotics best practices and design patterns
 
-## 🧬 Core Innovation
+##  Core Innovation
 
 This project demonstrates **advanced autonomous navigation** through:
 
@@ -29,7 +29,7 @@ This project demonstrates **advanced autonomous navigation** through:
 3. **Real-Time Processing**: Live AI inference on embedded hardware
 4. **Robust Architecture**: Thread-safe, fault-tolerant system design
 
-## 🚀 Features
+##  Features
 
 - **AI Object Detection** - Real-time YOLOv5 inference
 - **Dual Sensor System** - Camera + Ultrasonic sensors
@@ -38,7 +38,7 @@ This project demonstrates **advanced autonomous navigation** through:
 - **Complete Hardware Integration** - L298N motors + HC-SR04 sensors
 - **Beginner Friendly** - Extensive documentation and demos
 
-## � Technical Specifications
+##  Technical Specifications
 
 | **Component** | **Technology** | **Performance** |
 |---------------|----------------|-----------------|
@@ -48,15 +48,10 @@ This project demonstrates **advanced autonomous navigation** through:
 | **Processing** | Raspberry Pi 4 | ARM Cortex-A72 |
 | **Motors** | DC Motors + L298N | PWM speed control |
 | **Languages** | Python 3.8+ | Object-oriented design |
+![robot](https://github.com/user-attachments/assets/c79a97b0-fef9-44a3-ad87-4614143f00c8)
 
-## 🎓 Academic Applications
 
-**Perfect for:**
-- 🎓 **Masters Thesis**: Advanced robotics and AI integration
-- 📚 **Research Projects**: Computer vision in robotics
-- 🏆 **Competitions**: Autonomous navigation challenges  
-- 💼 **Portfolio**: Demonstrates full-stack robotics skills
-- 🔬 **Publications**: Novel sensor fusion approaches
+
 
 ## ⚡ Quick Start
 
@@ -76,7 +71,7 @@ python test_robot.py
 python main.py
 ```
 
-## 🧠 AI-Powered Navigation Logic
+##  AI-Powered Navigation Logic
 
 ```
 📸 CAMERA INPUT → 🤖 YOLOv5 AI → 🧠 DECISION ENGINE → ⚙️ MOTOR CONTROL
@@ -191,32 +186,7 @@ Edit `config.py` to customize:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙋‍♂️ Support
 
-- 📖 **Documentation:** Check README.md and code comments
-- 🧪 **Testing:** Run `test_robot.py` for diagnostics
-- 🐛 **Issues:** Open GitHub issue with test results
-- 💡 **Ideas:** Discussions welcome in Issues
-
----
-
-## 🌟 **Star This Repository!**
-
-If this project helped you or inspired your work:
-- ⭐ **Star** this repo to show appreciation
-- 🍴 **Fork** to build upon this foundation  
-- 📢 **Share** with robotics enthusiasts
-- 💡 **Contribute** improvements and features
-
-## 🎯 Impact & Recognition
-
-This project represents the intersection of **academic rigor** and **practical application** - perfect for:
-- Graduate school applications
-- Technical interviews  
-- Research publications
-- Industry demonstrations
-
-**Made with ❤️ for the robotics and AI community**
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/robotics?style=social)](https://github.com/yourusername/robotics/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/robotics?style=social)](https://github.com/yourusername/robotics/network/members)
