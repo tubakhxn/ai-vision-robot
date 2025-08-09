@@ -1,0 +1,10 @@
+# Object Detection + Obstacle Avoidance Robot Dependencies
+# Install with: pip install -r requirements.txt
+
+opencv-python==4.8.1.78
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.196
+RPi.GPIO==0.7.1
+numpy==1.24.3
+Pillow==10.0.0
