@@ -6,12 +6,6 @@
 [![AI Powered](https://img.shields.io/badge/AI-Powered-brightgreen.svg)](https://github.com/ultralytics/ultralytics)
 [![Masters Project](https://img.shields.io/badge/Academic-Masters%20Level-gold.svg)](#)
 
-> **🎓 Masters-Level Project**: Advanced autonomous navigation system combining state-of-the-art computer vision (YOLOv5) with sensor fusion for intelligent obstacle avoidance.
-
-![Robot Vision Demo](demo_screenshot.png)
-*Real-time AI object detection in action - Robot identifies obstacles and makes navigation decisions*
-
-
 
 ##  Core Innovation
 
