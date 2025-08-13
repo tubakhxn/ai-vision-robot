@@ -11,14 +11,7 @@
 ![Robot Vision Demo](demo_screenshot.png)
 *Real-time AI object detection in action - Robot identifies obstacles and makes navigation decisions*
 
-##  Project Highlights
 
-**🏆 Why This Project Stands Out:**
-- **Cutting-Edge AI**: Real-time YOLOv5 object detection with 90%+ accuracy
-- **Advanced Sensor Fusion**: Combines computer vision with ultrasonic sensors
-- **Production-Ready Code**: Modular, well-documented, and thoroughly tested
-- **Academic Excellence**: Masters-level complexity with practical applications
-- **Industry Standards**: Follows robotics best practices and design patterns
 
 ##  Core Innovation
 
@@ -43,7 +36,7 @@ This project demonstrates **advanced autonomous navigation** through:
 
 
 
-## ⚡ Quick Start
+##  Quick Start
 
 ```bash
 # 1. Clone repository
@@ -64,26 +57,21 @@ python main.py
 ##  AI-Powered Navigation Logic
 
 ```
-📸 CAMERA INPUT → 🤖 YOLOv5 AI → 🧠 DECISION ENGINE → ⚙️ MOTOR CONTROL
+CAMERA INPUT →  YOLOv5 AI → DECISION ENGINE →  MOTOR CONTROL
 ```
 
 **Smart Decision Tree:**
 ```
 if ultrasonic_distance < 20cm:
-    🚨 EMERGENCY STOP → Turn Left
+ EMERGENCY STOP → Turn Left
 elif AI_detects_obstacle_in_front():
-    🛑 STRATEGIC AVOID → Turn Right  
+     STRATEGIC AVOID → Turn Right  
 else:
-    ✅ ADVANCE → Move Forward
+     ADVANCE → Move Forward
 ```
 
-**Live Demo Results:**
-- ✅ **Person Detection**: 98% confidence (as shown in demo)
-- ✅ **Object Recognition**: Cell phone at 88% confidence
-- ✅ **Spatial Awareness**: Front zone obstacle avoidance
-- ✅ **Real-Time Decision**: "OBSTACLE DETECTED - TURN RIGHT"
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 robotics/
@@ -140,37 +128,7 @@ python beginner_demo.py
 python demo.py
 ```
 
-## ⚙️ Configuration
 
-Edit `config.py` to customize:
-- Motor speeds and timing
-- Detection thresholds
-- GPIO pin assignments
-- Sensor parameters
-
-## 🛠️ Troubleshooting
-
-| Issue | Solution |
-|-------|----------|
-| Camera not detected | `sudo raspi-config` → Enable camera |
-| GPIO permissions | Run with `sudo` or add user to gpio group |
-| YOLO model download fails | Check internet connection |
-| Motors not responding | Verify L298N wiring and power supply |
-
-## 📚 Learning Resources
-
-- **Beginner?** Start with `beginner_demo.py`
-- **Hardware setup:** See wiring diagrams above
-- **Code walkthrough:** Check inline comments
-- **Testing:** Use `test_robot.py` for diagnostics
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
 
 ## 📄 License
 
