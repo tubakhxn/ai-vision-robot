@@ -39,7 +39,6 @@ This project demonstrates **advanced autonomous navigation** through:
 - **Beginner Friendly** - Extensive documentation and demos
 
 
-![robot](https://github.com/user-attachments/assets/c79a97b0-fef9-44a3-ad87-4614143f00c8)
 
 
 
