@@ -38,16 +38,7 @@ This project demonstrates **advanced autonomous navigation** through:
 - **Complete Hardware Integration** - L298N motors + HC-SR04 sensors
 - **Beginner Friendly** - Extensive documentation and demos
 
-##  Technical Specifications
 
-| **Component** | **Technology** | **Performance** |
-|---------------|----------------|-----------------|
-| **AI Engine** | YOLOv5s (Ultralytics) | 30+ FPS real-time |
-| **Vision** | Pi Camera Module | 640x480 @ 30fps |
-| **Sensors** | HC-SR04 Ultrasonic (2x) | 2-400cm range |
-| **Processing** | Raspberry Pi 4 | ARM Cortex-A72 |
-| **Motors** | DC Motors + L298N | PWM speed control |
-| **Languages** | Python 3.8+ | Object-oriented design |
 ![robot](https://github.com/user-attachments/assets/c79a97b0-fef9-44a3-ad87-4614143f00c8)
 
 
