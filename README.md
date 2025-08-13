@@ -25,6 +25,7 @@ This project demonstrates **advanced autonomous navigation** through:
 - **Complete Hardware Integration** - L298N motors + HC-SR04 sensors
 - **Beginner Friendly** - Extensive documentation and demos
 
+<img width="1536" height="1024" alt="ai img" src="https://github.com/user-attachments/assets/55d1841f-8ef8-47f9-a127-6d195d6c9c09" />
 
 
 
